@@ -7,7 +7,7 @@
 window.SURVEY_CONFIG = {
   // ▼ Google Apps Script 웹앱 배포 URL을 붙여넣으세요 (README 2단계 참고)
   //   비워두면 제출 시 응답이 파일(JSON)로 다운로드됩니다.
-  endpoint: "",
+  endpoint: "https://script.google.com/macros/s/AKfycbwNeB8p450JMjUZtIaHjV_rXi08NG8RIy6aY7GwM2exvyOpCNFmVnChgrweN3tY-FzCYw/exec",
 
   title: "학습자 및 전문가 대상 인력 수요 조사 설문지",
   description:
